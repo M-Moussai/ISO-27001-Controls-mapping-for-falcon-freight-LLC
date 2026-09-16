@@ -1,1 +1,5 @@
-
+| Control ID | Control Name | ISO 27002 Guidance Summary | How Falcon Freight Implements It | Status |
+|---|---|---|---|---|
+| A.5.1 | Policies for Information Security | 27002 says top management should define, approve, and communicate a security policy that's reviewed regularly. | Falcon Freight's CEO approves an Information Security Policy annually, distributed to all staff via email and the HR onboarding portal. | Implemented |
+| A.5.15 | Access Control | 27002 recommends access rights based on business need, reviewed periodically, following least-privilege. | Falcon Freight uses role-based access in its fleet tracking and finance systems; IT reviews access lists quarterly and removes access within 24 hours of an employee's exit. | Implemented |
+| A.7.4 | Physical Security Monitoring | 27002 recommends monitoring premises to detect unauthorized physical access. | Falcon Freight's Dubai warehouse uses CCTV covering all entry points, retained for 90 days, reviewed monthly by the Facilities team. | Partial |
