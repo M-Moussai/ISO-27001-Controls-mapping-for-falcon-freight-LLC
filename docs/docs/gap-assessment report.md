@@ -7,4 +7,5 @@
 | A.5.24 (Incident Management) | Defined incident response roles and procedures | IT Manager handles issues informally, no written plan | No formal incident response plan | High |
 | A.8.24 (Cryptography) | Defined rules for encryption and key management | Encryption used inconsistently, no key rotation policy | No cryptography policy | Medium |
 | A.7.10 (Storage Media) | Secure media handling and disposal process | USB drives issued with no tracking or wipe process | No storage media policy | Medium |
+| A.5.24 (Information Security Incident Management Planning)| 27002 recommends defined roles, procedures, and escalation paths for handling security incidents.
 | A.5.30 (ICT Continuity) | Tested business continuity for ICT systems | Backups exist but failover untested | Continuity plan not validated | Medium |
