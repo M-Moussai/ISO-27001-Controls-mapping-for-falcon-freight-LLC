@@ -27,11 +27,11 @@ control, physical security, incident management, backups, cryptography, and more
 
 **Information Security Policy**
 
-![ISP Title Page](docs/screenshots/isp-title.png)
-![ISP Content Page](docs/screenshots/isp-content.png)
+![ISP Title Page] (docs/screenshots/isp-title.png)
+![ISP Content Page] (docs/screenshots/isp-content.png)
 
 **Supporting Policies**
 
-![Access Control Policy](docs/screenshots/acp-title.png)
-![Acceptable Use Policy](docs/screenshots/aup-title.png)
-![Incident Response Policy](docs/screenshots/irp-title.png)
+![Access Control Policy] (docs/screenshots/acp-title.png)
+![Acceptable Use Policy] (docs/screenshots/aup-title.png)
+![Incident Response Policy] (docs/screenshots/irp-title.png)
